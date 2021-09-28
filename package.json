@@ -1,0 +1,28 @@
+{
+  "name": "rpg-game",
+  "version": "1.0.0",
+  "description": "README.md",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgardopina/rpg-game.git"
+  },
+  "keywords": [
+    "rpg",
+    "game",
+    "node",
+    "javascript"
+  ],
+  "author": "Edgardo Pina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgardopina/rpg-game/issues"
+  },
+  "homepage": "https://github.com/edgardopina/rpg-game#readme",
+  "devDependencies": {
+    "jest": "^27.2.1"
+  }
+}
